@@ -1,4 +1,4 @@
-# # Projeto ilustrativo para fins acadêmicos
+# Projeto ilustrativo para fins acadêmicos
 
 Projeto realizado com auxílio do curso: React: desenvolvendo com JavaScript da Alura.
 
